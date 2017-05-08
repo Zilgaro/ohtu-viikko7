@@ -5,7 +5,7 @@
 XP:ssa suunnittelua ei tehdä kuten vesiputousmallissa, suunnittelu tapahtuu evoluutionaarisesti eli suunnittelua tehdään sitä mukaan kun ohjelma kasvaa. Vesiputousmallissa "suunnitelmallinen" suunnittelu on rinnastettavissa
 muun insinöörityön, kuten rakennuksien, suunnitteluun. 
 
-Kirjoituksessaan Fowler myöntää yleisesti ottaen evoluutionaarisen suunnittelun olevan katastrofaalista, tarpeen mukaan tehdyt ratkaisut tekevät koodista vaikean muuttaa mitä pidemmälle mennään.
+Kirjoituksessaan Fowler myöntää yleisesti ottaen evoluutionaarisen suunnittelun olevan katastrofaalista, tarpeen mukaan tehdyt ratkaisut tekevät koodista sitä vaikempaa muuttaa mitä pidemmälle mennään.
 Tästä huolimatta XP on enemmän evoluutionaarisen suunnittelun kannalla. Fowlerin mukaan XP:n käytännöt mahdollistavat nk. "ohjelmistojen muuttamiskäyrän" tasauksen, tehden jälkikäden muutoksista halvempia, itseasiassa jopa houkuttelevia 
 verrattuna tarkkaan etukäteen suunnitteluun. Hänen mukaansa monet, jotka ovat joutuneet kärsimään evoluutionaarisesta suunnittelusta, eivät olet seuranneet näitä käytäntöjä.
 

@@ -7,3 +7,7 @@ Yhtäläisyyksiksi Scrumin ja Kanbanin välillä Ilves listaa ketterän sekä Le
 Ilves esittelee Scrumbanin siteeraten Corey Ladasia, Scrumbanin tärkeintä vaikuttajaa. Scrumban esitellään lähinnä scrumina, johon on sekoittunut Kanbanin periaatteita, esimerkiksi työmäärän arviointia ei painoteta, ja työnkulua hallitaan Kanban-taulua käyttäen. 
 
 Lopuksi esitellään muutama reaalimaailman projekti, joissa on hyödynnetty Scrumbania. Esimerkkitapauksista ensimmäisessä ongelmia syntyi transitiovaiheessa uuteen projektinhallintamalliin (Scrum) ja toisessa tiimin kyvyttömyydestä noudattaa mallia kunnolla.
+
+Lähde: https://www.cs.helsinki.fi/u/mluukkai/ohtu/ilves-kandi.pdf
+
+Plus olin jo aikaisemmin mergannut miniprojektin kuluessa pullrequestin.
